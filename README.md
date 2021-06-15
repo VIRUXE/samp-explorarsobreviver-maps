@@ -24,8 +24,8 @@ Notas de design e outros factos:
 - `LS/DocksBuildingNorth` é um conjunto de vedações que providenciam um perimetro de segurança, em volta do navio que está nas docas de Los Santos.
 - `RC/Lagoon` é um mapa de deathmatch do antigo gamemode `Hellfire` do *Southclaw*.
 - `SF/Naval Base` Simplesmente adiciona portas no *aircraft carrier* para que seja mais difícil entrar (item de alto valor dentro!)
-- `BC/Rivet` was named after Rivet City, an area in Fallout 3 which was a huge inspiration for the Scavenge and Survive project. A game that both I and Dogmeat enjoyed!
-- `LV/Dogmeat` appears to be just random objects located around LV. Dogmeat is also a good friend of mine who built a lot of these areas.
+- `BC/Rivet` Uma área em Fallout 3 que foi uma imensa inspiração para o *Scavenge and Survive*.
+- `LV/Dogmeat` Aparenta ser objetos aleatórios localizados em volta de LV. Criados pelo *Dogmeat* (Amigo do *Southclaw*).
 - `TR/DamBlockaid`, `TR/BcBridgeBlockaid` e `TR/FortCarssonBridge` foram desenhados para abrandar a passagem de veículos entre *Bone County* e *Tierra Robada* de forma a incentivar barragens e embuscadas feitas pelos jogadores.
 - `TR/FortMyst` nome aleatório qualquer dado pelo *Southclaw*.
 Algumas áreas também contêm as suas próprias correções de colisão de jogo. O *Southclaw* não tem certeza se esses mesmos estão no meios de outros que estão na pasta `COLFIX`.
