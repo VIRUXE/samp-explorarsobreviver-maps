@@ -1,11 +1,163 @@
-0, 0, 500
-CreateObject(3593, -583.08002, 642.46997, 16.41000,   0.00000, 0.00000, 332.20999);
-CreateObject(3594, -585.60999, 636.34003, 16.33000,   0.00000, 0.00000, 340.14999);
-CreateObject(13591, -588.92999, 628.00000, 16.21000,   0.00000, 0.00000, 71.46000);
-CreateObject(3594, -583.96997, 636.09003, 17.13000,   350.07999, 0.00000, 268.69000);
-CreateObject(3593, -589.72925, 624.80920, 17.07000,   0.00000, 0.00000, -7.22000);
-CreateObject(12957, -585.00000, 630.90002, 16.70000,   0.00000, 0.00000, 51.61000);
-CreateObject(3594, -583.40002, 641.17999, 17.21000,   0.00000, 0.00000, 340.14999);
-CreateObject(3594, -586.39001, 632.17999, 17.21000,   0.00000, 0.00000, 27.79000);
-CreateObject(3593, -586.08002, 633.96997, 18.14000,   0.00000, 358.01999, 330.22000);
-CreateObject(3594, -587.96539, 629.42841, 18.56000,   5.95000, 0.00000, 337.14993);
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 		OBJETOS COM TEXTURA
+
+CreateObject(3593, -574.045715, 634.938598, 16.129999, 0.000000, 0.000000, 11.000000); 
+SetObjectMaterial(objectid, 0, 10101, "2notherbuildsfe", "gz_vicdoor1", 0x00000000);
+SetObjectMaterial(objectid, 1, 4835, "airoads_las", "ws_carparkwall1", 0x00000000);
+SetObjectMaterial(objectid, 2, 4835, "airoads_las", "ws_carparkwall1", 0x00000000);
+SetObjectMaterial(objectid, 3, 4835, "airoads_las", "ws_carparkwall1", 0x00000000);
+SetObjectMaterial(objectid, 4, 4835, "airoads_las", "ws_carparkwall1", 0x00000000);
+SetObjectMaterial(objectid, 5, 4835, "airoads_las", "ws_carparkwall1", 0x00000000);
+
+CreateObject(3593, -593.391845, 640.735168, 16.149999, 0.000000, 0.000000, -302.000000); 
+SetObjectMaterial(objectid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+
+CreateObject(12957, -688.772399, 666.910278, 16.219999, 0.000000, 0.000000, 90.000000); 
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+
+CreateObject(3594, -665.330322, 673.015380, 16.170000, 0.000000, 0.000000, -112.000000); 
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+
+CreateObject(16305, -475.050903, 583.882202, 18.668899, 0.000000, 0.000000, 210.000000); 
+SetObjectMaterial(objectid, 0, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 1, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 2, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 3, 3694, "ryderholes", "ryder_mud", 0x00000000);
+
+CreateObject(874, -509.221466, 604.749145, 15.652700, 0.000000, 0.000000, 245.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -512.350219, 596.733764, 15.652700, 0.000000, 0.000000, 164.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -505.535003, 587.959472, 15.652700, 0.000000, 0.000000, -118.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(3920, -512.449401, 592.893676, 19.450899, 0.000000, 0.000000, 101.000000); 
+SetObjectMaterial(objectid, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+SetObjectMaterial(objectid, 1, 13712, "lahillstr_lawn", "kb_ivy2_128", 0x00000000);
+SetObjectMaterial(objectid, 2, 13712, "lahillstr_lawn", "kb_ivy2_128", 0x00000000);
+SetObjectMaterial(objectid, 3, 13712, "lahillstr_lawn", "kb_ivy2_128", 0x00000000);
+
+CreateObject(3920, -511.626007, 587.981872, 19.450899, 0.000000, 0.000000, 101.000000); 
+SetObjectMaterial(objectid, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+SetObjectMaterial(objectid, 1, 13712, "lahillstr_lawn", "kb_ivy2_128", 0x00000000);
+SetObjectMaterial(objectid, 2, 13712, "lahillstr_lawn", "kb_ivy2_128", 0x00000000);
+SetObjectMaterial(objectid, 3, 13712, "lahillstr_lawn", "kb_ivy2_128", 0x00000000);
+
+CreateObject(639, -509.873901, 596.657165, 18.323699, 0.000000, 0.000000, -168.000000); 
+SetObjectMaterial(objectid, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+
+CreateObject(3920, -508.578308, 588.539123, 19.458099, 0.000000, 0.000000, -79.000000); 
+SetObjectMaterial(objectid, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+
+CreateObject(874, -498.516052, 600.606933, 15.652700, 0.000000, 0.000000, -118.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -495.053436, 590.883972, 15.652700, 0.000000, 0.000000, -118.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -495.333892, 583.886535, 15.652700, 0.000000, 0.000000, -118.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -512.270141, 590.068847, 15.652700, 0.000000, 0.000000, 215.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -513.811767, 598.585693, 15.652700, 0.000000, 0.000000, 244.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -512.044067, 605.872070, 15.652700, 0.000000, 0.000000, 242.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -489.636047, 597.518920, 15.652700, 0.000000, 0.000000, -118.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -487.055511, 587.092224, 15.652700, 0.000000, 0.000000, -118.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -485.858795, 579.561645, 15.652700, 0.000000, 0.000000, -118.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(636, -508.817749, 581.951538, 18.957300, 180.000000, 90.000000, -80.000000); 
+SetObjectMaterial(objectid, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+
+CreateObject(874, -482.021789, 592.516418, 15.652700, 0.000000, 0.000000, -118.000000); 
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(874, -503.861755, 594.559020, 15.652700, 0.000000, 0.000000, -118.000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+
+CreateObject(10984, -515.452087, 601.500366, 15.871500, 0.000000, 0.000000, -98.000000); 
+SetObjectMaterial(objectid, 0, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 1, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 2, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 3, 3694, "ryderholes", "ryder_mud", 0x00000000);
+
+CreateObject(13591, -547.417724, 616.066528, 16.030000, 0.000000, 0.000000, 280.000000); 
+SetObjectMaterial(objectid, 0, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 1, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 2, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 3, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 4, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 5, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 6, 16640, "a51", "sw_olddrum1", 0x00000000);
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 		       OBJETOS
+
+CreateObject(13591, -515.760070, 591.723327, 15.970000, 0.000000, 0.000000, 91.000000); 
+CreateObject(3593, -618.040588, 637.298217, 16.079999, 0.000000, 358.000000, -215.000000); 
+CreateObject(3566, -510.516479, 590.710510, 18.038999, 0.000000, 0.000000, 11.000000); 
+CreateObject(2567, -506.494384, 608.353942, 17.514499, 0.000000, 0.000000, 18.000000); 
+CreateObject(1391, -504.541687, 601.624572, 16.887199, -91.000000, 0.000000, 59.000000); 
+CreateObject(3594, -510.42181, 600.61652, 16.24610,   0.00000, 0.00000, 273.00000);
+CreateObject(3594, -510.27771, 601.35016, 17.32610,   0.00000, 0.00000, 251.00000);
+CreateObject(3594, -577.26141, 620.02429, 16.20000, 0.000000, 0.000000, 62.000000); 
+CreateObject(13591, -643.447021, 657.945312, 16.069999, 0.000000, 0.000000, -84.000000); 
+CreateObject(12957, -625.399597, 650.812377, 16.520000, 0.000000, 0.000000, 40.000000); 
+CreateObject(822, -504.574798, 584.244873, 15.951899, 0.000000, 0.000000, 0.000000); 
+CreateObject(849, -481.638305, 592.215515, 16.215999, 0.000000, 0.000000, 0.000000); 
+CreateObject(3049, -480.766113, 593.923583, 15.998200, 90.000000, 0.000000, -77.000000); 
+CreateObject(3049, -495.716583, 582.555480, 15.958200, 90.000000, 0.000000, -142.000000); 
+CreateObject(13590, -707.87097, 694.15277, 17.07370,   1.00000, 0.00000, 85.00000);
+CreateObject(3578, -506.40793, 597.41077, 16.29760,   0.00000, 0.00000, 55.00000);
+CreateObject(19355, -478.27100, 582.72772, 19.96630,   0.00000, 0.00000, -31.00000);
+CreateObject(19355, -478.27100, 582.72772, 16.46630,   0.00000, 0.00000, -31.00000);
+CreateObject(19355, -476.62000, 585.46741, 19.96630,   0.00000, 0.00000, -31.00000);
+CreateObject(19355, -476.62000, 585.46741, 16.46630,   0.00000, 0.00000, -31.00000);
+CreateObject(19355, -475.51648, 587.31128, 19.96630,   0.00000, 0.00000, -31.00000);
+CreateObject(19355, -475.51651, 587.31128, 16.48630,   0.00000, 0.00000, -31.00000);
+CreateObject(874, -546.99567, 616.68378, 16.07128,   0.00000, 0.00000, 0.00000);
+CreateObject(874, -574.38641, 633.49091, 15.69150,   0.00000, 0.00000, -117.00000);
+CreateObject(874, -624.22681, 650.90735, 15.82935,   0.00000, 0.00000, 0.00000);
+CreateObject(874, -642.78412, 660.41339, 15.80340,   0.00000, 0.00000, 0.00000);
+CreateObject(874, -720.55634, 697.37134, 16.22430,   0.00000, 0.00000, 17.00000);
+CreateObject(874, -732.76819, 694.98077, 16.22430,   0.00000, 0.00000, 46.00000);
+CreateObject(874, -714.41003, 689.33972, 16.22430,   0.00000, 0.00000, 135.00000);
+CreateObject(874, -724.37463, 690.52734, 16.22430,   0.00000, 0.00000, 46.00000);
+CreateObject(874, -720.75812, 692.70422, 16.22430,   0.00000, 0.00000, 47.00000);
+CreateObject(874, -728.86847, 700.69336, 16.22430,   0.00000, 0.00000, 17.00000);
+CreateObject(874, -737.77411, 697.87952, 16.22430,   0.00000, 0.00000, 171.00000);
+CreateObject(874, -733.04584, 704.26648, 16.22430,   0.00000, 0.00000, 40.00000);
+CreateObject(3920, -747.26447, 689.70953, 16.64740,   0.00000, -2.00000, 156.00000);
+CreateObject(3920, -735.80841, 684.61804, 16.18740,   0.00000, -2.00000, 156.00000);
+CreateObject(639, -727.28412, 680.57483, 14.80050,   2.00000, 0.00000, 66.00000);
+CreateObject(16304, -730.53278, 695.05298, 9.84640,   0.00000, -1.00000, 0.00000);
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
