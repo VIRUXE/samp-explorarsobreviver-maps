@@ -23,137 +23,137 @@ RemoveBuildingForPlayer(playerid, 669, -1393.062, 2616.085, 54.812, 0.250);
 // 		OBJETOS COM TEXTURA
 
 CreateObject(17950, -1529.284423, 2627.640869, 57.094894, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 3980, "cityhall_lan", "man_cellarfloor128", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 1730, "cj_furniture", "CJ_WOOD5", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 10101, "2notherbuildsfe", "sl_vicwall01", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 10101, "2notherbuildsfe", "sl_vicrfedge", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 10101, "2notherbuildsfe", "sl_vicwall01", 0x00000000);
+SetObjectMaterial(objectid, 0, 3980, "cityhall_lan", "man_cellarfloor128", 0x00000000);
+SetObjectMaterial(objectid, 1, 1730, "cj_furniture", "CJ_WOOD5", 0x00000000);
+SetObjectMaterial(objectid, 2, 10101, "2notherbuildsfe", "sl_vicwall01", 0x00000000);
+SetObjectMaterial(objectid, 3, 10101, "2notherbuildsfe", "sl_vicrfedge", 0x00000000);
+SetObjectMaterial(objectid, 4, 10101, "2notherbuildsfe", "sl_vicwall01", 0x00000000);
 
 CreateObject(11500, -1490.817504, 2545.380859, 54.296321, 0.000000, 0.000000, 208.859985); 
-SetObjectMaterial(tmpobjid, 0, 701, "badlands", "sm_des_bush1", 0x00000000);
+SetObjectMaterial(objectid, 0, 701, "badlands", "sm_des_bush1", 0x00000000);
 
 CreateObject(3593, -1400.845703, 2631.506347, 55.127441, 0.000000, 0.000000, 90.000000); 
-SetObjectMaterial(tmpobjid, 0, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
+SetObjectMaterial(objectid, 0, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14755, "sfhss2", "mcstraps_wall2", 0x00000000);
 
 CreateObject(3594, -1408.382934, 2648.146728, 55.061401, 0.000000, 0.000000, -222.000000); 
-SetObjectMaterial(tmpobjid, 0, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
+SetObjectMaterial(objectid, 0, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
+SetObjectMaterial(objectid, 1, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
+SetObjectMaterial(objectid, 2, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
+SetObjectMaterial(objectid, 3, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
+SetObjectMaterial(objectid, 4, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
+SetObjectMaterial(objectid, 5, 14754, "sfhsb3", "ah_skrtmorebroon", 0x00000000);
 
 CreateObject(1479, -1517.145507, 2559.648437, 56.168617, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 14652, "ab_trukstpa", "mp_diner_wood", 0x00000000);
+SetObjectMaterial(objectid, 0, 14652, "ab_trukstpa", "mp_diner_wood", 0x00000000);
 
 CreateObject(3593, -1513.240722, 2536.079345, 55.120212, 0.000000, 0.000000, 176.899917); 
-SetObjectMaterial(tmpobjid, 0, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 0, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 1, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 2, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 3, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 4, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
+SetObjectMaterial(objectid, 5, 9902, "coastground", "coasty_bit4_sfe", 0x00000000);
 
 CreateObject(1800, -1515.153320, 2526.825195, 54.663799, 0.000000, 0.000000, -47.000000); 
-SetObjectMaterial(tmpobjid, 0, 5710, "cemetery_law", "conc_wall2_128H", 0x00000000);
+SetObjectMaterial(objectid, 0, 5710, "cemetery_law", "conc_wall2_128H", 0x00000000);
 
 CreateObject(1800, -1519.676513, 2518.578125, 54.803798, 0.000000, 0.000000, -9.000000); 
-SetObjectMaterial(tmpobjid, 0, 8420, "carpark3_lvs", "newgrnd1_128", 0x00000000);
+SetObjectMaterial(objectid, 0, 8420, "carpark3_lvs", "newgrnd1_128", 0x00000000);
 
 CreateObject(636, -1511.840698, 2522.894042, 56.490798, 0.000000, -90.000000, -180.000000); 
-SetObjectMaterial(tmpobjid, 0, 17851, "cinemart_alpha", "kb_ivy2_256", 0x00000000);
+SetObjectMaterial(objectid, 0, 17851, "cinemart_alpha", "kb_ivy2_256", 0x00000000);
 
 CreateObject(3593, -1470.216308, 2648.875244, 55.184799, 0.000000, 0.000000, -62.000000); 
-SetObjectMaterial(tmpobjid, 0, 2994, "trolex", "trolley01", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 2994, "trolex", "trolley01", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 2994, "trolex", "trolley01", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 2994, "trolex", "trolley01", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 2994, "trolex", "trolley01", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 2994, "trolex", "trolley01", 0x00000000);
+SetObjectMaterial(objectid, 0, 2994, "trolex", "trolley01", 0x00000000);
+SetObjectMaterial(objectid, 1, 2994, "trolex", "trolley01", 0x00000000);
+SetObjectMaterial(objectid, 2, 2994, "trolex", "trolley01", 0x00000000);
+SetObjectMaterial(objectid, 3, 2994, "trolex", "trolley01", 0x00000000);
+SetObjectMaterial(objectid, 4, 2994, "trolex", "trolley01", 0x00000000);
+SetObjectMaterial(objectid, 5, 2994, "trolex", "trolley01", 0x00000000);
 
 CreateObject(874, -1488.676147, 2527.086669, 54.738899, 0.000000, 0.000000, -55.000000); 
-SetObjectMaterial(tmpobjid, 0, 701, "badlands", "sm_des_bush1", 0x00000000);
+SetObjectMaterial(objectid, 0, 701, "badlands", "sm_des_bush1", 0x00000000);
 
 CreateObject(874, -1464.384765, 2588.171142, 54.833599, 0.000000, 0.000000, -11.000000); 
-SetObjectMaterial(tmpobjid, 0, 701, "badlands", "sm_des_bush1", 0x00000000);
+SetObjectMaterial(objectid, 0, 701, "badlands", "sm_des_bush1", 0x00000000);
 
 CreateObject(3594, -1522.666015, 2641.086914, 55.366500, 0.000000, 0.000000, 40.000000); 
-SetObjectMaterial(tmpobjid, 0, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
+SetObjectMaterial(objectid, 0, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
+SetObjectMaterial(objectid, 1, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
+SetObjectMaterial(objectid, 2, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
+SetObjectMaterial(objectid, 3, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
+SetObjectMaterial(objectid, 4, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
+SetObjectMaterial(objectid, 5, 18250, "cw_junkbuildcs_t", "Was_scrpyd_rustmetal", 0x00000000);
 
 CreateObject(19511, -1394.255737, 2616.957763, 57.544101, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 2, 16640, "a51", "stormdrain7", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 10856, "bakerybit_sfse", "ws_altz_wall7", 0x00000000);
+SetObjectMaterial(objectid, 2, 16640, "a51", "stormdrain7", 0x00000000);
+SetObjectMaterial(objectid, 3, 10856, "bakerybit_sfse", "ws_altz_wall7", 0x00000000);
 
 CreateObject(19512, -1394.255737, 2616.957763, 57.544101, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 14652, "ab_trukstpa", "mp_diner_wood", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 10856, "bakerybit_sfse", "ws_altz_wall7", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 8391, "ballys01", "greyground256128", 0x00000000);
+SetObjectMaterial(objectid, 0, 14652, "ab_trukstpa", "mp_diner_wood", 0x00000000);
+SetObjectMaterial(objectid, 1, 10856, "bakerybit_sfse", "ws_altz_wall7", 0x00000000);
+SetObjectMaterial(objectid, 2, 8391, "ballys01", "greyground256128", 0x00000000);
 
 CreateObject(3593, -1425.254516, 2663.409912, 55.109699, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
+SetObjectMaterial(objectid, 0, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
+SetObjectMaterial(objectid, 1, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
+SetObjectMaterial(objectid, 2, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
+SetObjectMaterial(objectid, 3, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
+SetObjectMaterial(objectid, 4, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
+SetObjectMaterial(objectid, 5, 17072, "truckedepotlawn", "GB_truckdepot04", 0x00000000);
 
 CreateObject(16304, -1426.172363, 2634.281982, 55.653900, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 0, 3694, "ryderholes", "ryder_mud", 0x00000000);
 
 CreateObject(12957, -1395.551391, 2600.092041, 55.160301, -3.000000, 0.000000, -62.000000); 
-SetObjectMaterial(tmpobjid, 0, 18202, "w_towncs_t", "pax256hi", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 18202, "w_towncs_t", "pax256hi", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 18202, "w_towncs_t", "pax256hi", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 18202, "w_towncs_t", "pax256hi", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 18202, "w_towncs_t", "pax256hi", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 18202, "w_towncs_t", "pax256hi", 0x00000000);
+SetObjectMaterial(objectid, 0, 18202, "w_towncs_t", "pax256hi", 0x00000000);
+SetObjectMaterial(objectid, 1, 18202, "w_towncs_t", "pax256hi", 0x00000000);
+SetObjectMaterial(objectid, 2, 18202, "w_towncs_t", "pax256hi", 0x00000000);
+SetObjectMaterial(objectid, 3, 18202, "w_towncs_t", "pax256hi", 0x00000000);
+SetObjectMaterial(objectid, 4, 18202, "w_towncs_t", "pax256hi", 0x00000000);
+SetObjectMaterial(objectid, 5, 18202, "w_towncs_t", "pax256hi", 0x00000000);
 
 CreateObject(13591, -1413.279907, 2600.382812, 54.900600, 0.000000, 0.000000, -33.000000); 
-SetObjectMaterial(tmpobjid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 
 CreateObject(3626, -1480.725708, 2688.739501, 56.069698, 0.000000, 0.000000, 90.000000); 
-SetObjectMaterial(tmpobjid, 0, 16640, "a51", "plaintarmac1", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 8071, "vgsswarehse01", "vgswrehouse01_128", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 8071, "vgsswarehse01", "vgswrehouse01_128", 0x00000000);
+SetObjectMaterial(objectid, 0, 16640, "a51", "plaintarmac1", 0x00000000);
+SetObjectMaterial(objectid, 1, 8071, "vgsswarehse01", "vgswrehouse01_128", 0x00000000);
+SetObjectMaterial(objectid, 3, 8071, "vgsswarehse01", "vgswrehouse01_128", 0x00000000);
 
 CreateObject(3594, -1549.352416, 2568.398925, 54.961498, 0.000000, 0.000000, 2.000000); 
-SetObjectMaterial(tmpobjid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 
 CreateObject(3593, -1548.662475, 2580.449951, 55.181499, 0.000000, 0.000000, -171.000000); 
-SetObjectMaterial(tmpobjid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 
 CreateObject(3594, -1545.819702, 2627.825195, 55.038600, 0.000000, 0.000000, -25.000000); 
-SetObjectMaterial(tmpobjid, 0, 7426, "vgncorp1", "curbred_64H", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 7426, "vgncorp1", "curbred_64H", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 7426, "vgncorp1", "curbred_64H", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 7426, "vgncorp1", "curbred_64H", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 7426, "vgncorp1", "curbred_64H", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 7426, "vgncorp1", "curbred_64H", 0x00000000);
+SetObjectMaterial(objectid, 0, 7426, "vgncorp1", "curbred_64H", 0x00000000);
+SetObjectMaterial(objectid, 1, 7426, "vgncorp1", "curbred_64H", 0x00000000);
+SetObjectMaterial(objectid, 2, 7426, "vgncorp1", "curbred_64H", 0x00000000);
+SetObjectMaterial(objectid, 3, 7426, "vgncorp1", "curbred_64H", 0x00000000);
+SetObjectMaterial(objectid, 4, 7426, "vgncorp1", "curbred_64H", 0x00000000);
+SetObjectMaterial(objectid, 5, 7426, "vgncorp1", "curbred_64H", 0x00000000);
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
