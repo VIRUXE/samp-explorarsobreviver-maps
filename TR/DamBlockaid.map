@@ -3,123 +3,123 @@
 // 		OBJETOS COM TEXTURA 
 
 CreateObject(874, -837.332763, 2015.254760, 59.374691, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(874, -843.721679, 2022.882934, 59.374691, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(3593, -620.466674, 2038.340087, 59.509300, 0.000000, 0.000000, -113.000000); 
-SetObjectMaterial(tmpobjid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 6, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 6, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 
 CreateObject(3594, -549.774047, 2020.576782, 60.269298, -12.000000, 0.000000, -207.000000); 
-SetObjectMaterial(tmpobjid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 
 CreateObject(3594, -651.676757, 2044.444580, 59.809326, 2.599999, 0.000000, 159.100158); 
-SetObjectMaterial(tmpobjid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 
 CreateObject(10984, -693.695983, 2059.309570, 60.026901, 0.000000, 0.000000, -119.000000); 
-SetObjectMaterial(tmpobjid, 0, 3694, "ryderholes", "ryder_mud", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 3694, "ryderholes", "ryder_mud", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 3694, "ryderholes", "ryder_mud", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 3694, "ryderholes", "ryder_mud", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 0, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 1, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 2, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 3, 3694, "ryderholes", "ryder_mud", 0x00000000);
+SetObjectMaterial(objectid, 4, 3694, "ryderholes", "ryder_mud", 0x00000000);
 
 CreateObject(874, -732.642395, 2056.065917, 59.831501, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(874, -738.909118, 2058.397460, 59.831501, 0.000000, 0.000000, -153.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(874, -729.867797, 2053.381591, 59.180099, 0.000000, 0.000000, 80.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(866, -667.031677, 2081.312744, 59.382720, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(866, -661.765991, 2088.659912, 59.382720, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(866, -660.177124, 2090.799072, 59.382701, 0.000000, 0.000000, 149.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(18451, -680.847595, 2072.988769, 59.620800, 0.000000, 0.000000, 40.000000); 
-SetObjectMaterial(tmpobjid, 1, 13361, "ce_pizza", "comptwall36", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 13361, "ce_pizza", "comptwall36", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 13361, "ce_pizza", "comptwall36", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 13361, "ce_pizza", "comptwall36", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 13361, "ce_pizza", "comptwall36", 0x00000000);
-SetObjectMaterial(tmpobjid, 6, 13361, "ce_pizza", "comptwall36", 0x00000000);
+SetObjectMaterial(objectid, 1, 13361, "ce_pizza", "comptwall36", 0x00000000);
+SetObjectMaterial(objectid, 2, 13361, "ce_pizza", "comptwall36", 0x00000000);
+SetObjectMaterial(objectid, 3, 13361, "ce_pizza", "comptwall36", 0x00000000);
+SetObjectMaterial(objectid, 4, 13361, "ce_pizza", "comptwall36", 0x00000000);
+SetObjectMaterial(objectid, 5, 13361, "ce_pizza", "comptwall36", 0x00000000);
+SetObjectMaterial(objectid, 6, 13361, "ce_pizza", "comptwall36", 0x00000000);
 
 CreateObject(12957, -787.641540, 2056.007324, 59.839298, 0.000000, 0.000000, -26.000000); 
-SetObjectMaterial(tmpobjid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 
 CreateObject(874, -789.104064, 2042.110595, 59.172981, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(874, -794.947387, 2050.314453, 59.173000, 0.000000, 0.000000, -193.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(874, -812.029541, 2029.237304, 59.777198, 0.000000, 0.000000, -69.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(874, -827.267639, 2018.534301, 59.777198, 0.000000, 0.000000, -69.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(874, -837.521850, 2029.906860, 58.397186, 0.000000, 0.000000, -69.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(874, -828.978515, 2035.084228, 58.227176, 0.000000, 0.000000, -69.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(874, -822.188598, 2030.327758, 59.157199, 0.000000, 0.000000, -69.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(1442, -673.941528, 2075.240234, 59.943698, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 18202, "w_towncs_t", "pax256hi", 0x00000000);
+SetObjectMaterial(objectid, 0, 18202, "w_towncs_t", "pax256hi", 0x00000000);
 
 CreateObject(1442, -701.470947, 2064.184082, 59.942401, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(tmpobjid, 0, 18202, "w_towncs_t", "pax256hi", 0x00000000);
+SetObjectMaterial(objectid, 0, 18202, "w_towncs_t", "pax256hi", 0x00000000);
 
 CreateObject(874, -833.861755, 2023.961059, 59.747230, 0.000000, 0.000000, -69.000000); 
-SetObjectMaterial(tmpobjid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
+SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
 
 CreateObject(3594, -586.291076, 2039.372558, 59.667034, 1.300001, 0.000000, -131.300018); 
-SetObjectMaterial(tmpobjid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 
 CreateObject(3593, -628.273681, 2056.981201, 59.619266, 0.000000, 0.000000, -98.200004); 
-SetObjectMaterial(tmpobjid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
-SetObjectMaterial(tmpobjid, 6, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 0, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 1, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 2, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 3, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
+SetObjectMaterial(objectid, 6, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
