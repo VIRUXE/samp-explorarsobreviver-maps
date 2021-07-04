@@ -153,4 +153,4 @@ SetObjectMaterial(objectid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x0000
 SetObjectMaterial(objectid, 1, 4811, "beach_las", "sandnew_law", 0x00000000);
 SetObjectMaterial(objectid, 2, 4811, "beach_las", "sandnew_law", 0x00000000);
 SetObjectMaterial(objectid, 3, 4811, "beach_las", "sandnew_law", 0x00000000);
-SetObjectMaterial(objectid, 4, 4811, "beach_las", "sandnew_law", 0x00000000);
+SetObjectMaterial(objectid, 4, 4811, "beach_las", "sandnew_law", 0x00000000);.
