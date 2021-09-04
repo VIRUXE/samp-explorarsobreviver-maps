@@ -23,11 +23,10 @@ RemoveBuildingForPlayer(playerid, 669, -1393.062, 2616.085, 54.812, 0.250);
 // 		OBJETOS COM TEXTURA
 
 CreateObject(17950, -1529.284423, 2627.640869, 57.094894, 0.000000, 0.000000, 0.000000); 
-SetObjectMaterial(objectid, 0, 3980, "cityhall_lan", "man_cellarfloor128", 0x00000000);
-SetObjectMaterial(objectid, 1, 1730, "cj_furniture", "CJ_WOOD5", 0x00000000);
-SetObjectMaterial(objectid, 2, 10101, "2notherbuildsfe", "sl_vicwall01", 0x00000000);
-SetObjectMaterial(objectid, 3, 10101, "2notherbuildsfe", "sl_vicrfedge", 0x00000000);
-SetObjectMaterial(objectid, 4, 10101, "2notherbuildsfe", "sl_vicwall01", 0x00000000);
+SetObjectMaterial(objectid, 0, 12946, "ce_bankalley1", "sw_brick03", 0x00000000);
+SetObjectMaterial(objectid, 2, 6094, "canalsg_law", "sw_brewbrick01", 0x00000000);
+SetObjectMaterial(objectid, 3, 6094, "canalsg_law", "sw_brewbrick01", 0x00000000);
+SetObjectMaterial(objectid, 4, 6094, "canalsg_law", "sw_brewbrick01", 0x00000000);
 
 CreateObject(11500, -1490.817504, 2545.380859, 54.296321, 0.000000, 0.000000, 208.859985); 
 SetObjectMaterial(objectid, 0, 701, "badlands", "sm_des_bush1", 0x00000000);
@@ -165,7 +164,7 @@ CreateObject(17036, -1273.45825, 2723.84106, 48.94213,   0.00000, 0.00000, -240.
 CreateObject(17036, -1280.40601, 2719.85840, 48.94396,   0.00000, 0.00000, -240.06010);
 CreateObject(1415, -1533.66223, 2624.85010, 54.83088,   0.00000, 0.00000, -113.39999);
 CreateObject(1338, -1533.94336, 2627.52002, 55.52269,   0.00000, 0.00000, 0.00000);
-CreateObject(1437, -1524.42407, 2629.42725, 55.99282,   0.00000, 0.00000, -273.71985);
+CreateObject(1437, -1525.04407, 2629.42725, 55.99280,   0.00000, 0.00000, 90.00000);
 CreateObject(3450, -1448.57581, 2646.47070, 56.65513,   0.00000, 0.00000, 0.00000);
 CreateObject(9153, -1449.71777, 2697.58862, 56.85658,   0.00000, 0.00000, 22.08000);
 CreateObject(616, -1533.57300, 2648.45068, 50.91852,   0.00000, 0.00000, 0.00000);
