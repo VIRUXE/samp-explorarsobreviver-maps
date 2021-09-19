@@ -1,1 +1,1 @@
-RemoveBuildingForPlayer(i, 6518, 280.297, -1606.2, 72.3984, 250.0);
+RemoveBuildingForPlayer(playerid, 6518, 280.297, -1606.2, 72.3984, 250.0);

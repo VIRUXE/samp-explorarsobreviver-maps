@@ -220,3 +220,28 @@ CreateObject(826, -2287.00415, -1665.83594, 482.68439,   0.00000, 0.00000, -36.0
 
 CreateObject(18244, -2309.60, -1646.11, 487.69,   90.00, 0.00, 25.86);
 objtxt("Mt. Chill\nRadio", 0, OBJECT_MATERIAL_SIZE_512x256, "Impact", 72, 0, -1, 4278216843, 1)
+
+/*
+		   PROTEÇÕES CONTRA FURTOS DE MAPAS POR MODS
+*/
+
+CreateObject(2675, -2316.68262, -1667.33777, 483.07761,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -2309.66724, -1626.50793, 481.84790,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -2327.98926, -1646.39648, 481.76059,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -2286.79468, -1664.94409, 482.66940,   0.00000, 0.00000, -40.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -2291.40015, -1654.12439, 481.25391,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -2298.58594, -1660.12195, 481.30560,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -2252.27515, -1714.14185, 479.90860,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)

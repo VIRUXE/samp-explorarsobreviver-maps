@@ -1,3 +1,18 @@
-RemoveBuildingForPlayer(i, 4007, 1421.38, -1477.6, 42.2031, 250.0); 	// Building
-RemoveBuildingForPlayer(i, 4009, 1421.38, -1477.6, 42.2031, 250.0); 	// LOD
+// Objetos Removidos
+
+RemoveBuildingForPlayer(playerid, 4007, 1421.38, -1477.6, 42.2031, 250.0); // Building
+RemoveBuildingForPlayer(playerid, 4009, 1421.38, -1477.6, 42.2031, 250.0); // LOD
+
+// Objetos
+
 CreateObject(19879, 1421.38, -1477.6, 42.2031, 0, 0, 0);
+
+/*
+		   PROTEÇÕES CONTRA FURTOS DE MAPAS POR MODS
+*/
+
+CreateObject(2675, 1442.03809, -1468.55945, 10.87420,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, 1427.97632, -1467.36023, 9.76120,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
