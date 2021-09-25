@@ -154,3 +154,16 @@ SetObjectMaterial(objectid, 1, 4811, "beach_las", "sandnew_law", 0x00000000);
 SetObjectMaterial(objectid, 2, 4811, "beach_las", "sandnew_law", 0x00000000);
 SetObjectMaterial(objectid, 3, 4811, "beach_las", "sandnew_law", 0x00000000);
 SetObjectMaterial(objectid, 4, 4811, "beach_las", "sandnew_law", 0x00000000);
+
+/*
+		   PROTEÇÕES CONTRA FURTOS DE MAPAS POR MODS
+*/
+
+CreateObject(2675, 230.64050, 4270.73975, 1.93180,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, 289.81131, 4328.19385, 0.65900,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, 259.41391, 4293.99414, 4.98380,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)

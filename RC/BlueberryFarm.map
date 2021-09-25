@@ -13,3 +13,13 @@ CreateObject(1454, -105.54401, -133.11476, 2.83485,   0.00000, 0.00000, 352.5418
 CreateObject(1454, -103.77862, -133.35991, 2.83485,   0.00000, 0.00000, 352.54187);
 CreateObject(1454, -102.12197, -133.60507, 2.83485,   0.00000, 0.00000, 352.54187);
 CreateObject(1458, -91.94054, -137.07423, 2.34200,   0.00000, 0.00000, 29.87226);
+
+/*
+		   PROTEÇÕES CONTRA FURTOS DE MAPAS POR MODS
+*/
+
+CreateObject(2675, -87.64410, -143.27521, 1.07760,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -139.18550, -119.97530, 1.40480,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)

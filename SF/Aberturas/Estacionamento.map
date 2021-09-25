@@ -8,3 +8,10 @@ RemoveBuildingForPlayer(playerid, 11144, -1909.5547, 497.2188, 25.7109, 0.25);
 // Objetos
 
 CreateObject(19485, -1909.55469, 497.21881, 25.71090,   0.00000, 0.00000, 0.00000);
+
+/*
+		   PROTEÇÕES CONTRA FURTOS DE MAPAS POR MODS
+*/
+
+CreateObject(2675, -1911.98254, 495.10818, 32.46800,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)

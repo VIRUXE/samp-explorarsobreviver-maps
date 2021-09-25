@@ -20,3 +20,16 @@ CreateObject(1245, -208.6851, 253.3712, 12.0377, 0.0000, -7.6999, -104.5002); //
 CreateObject(13591, -174.0274, 327.4250, 11.4303, 0.0000, 0.0000, 77.2999); //kickcar28
 CreateObject(19959, -180.2228, 323.6555, 10.5061, -1.8999, 0.0000, 168.0999); //SAMPRoadSign12
 CreateObject(5153, -188.2839, 333.0327, 12.6838, 93.5999, 11.2000, 0.0000); //stuntramp7_las2
+
+/*
+		   PROTEÇÕES CONTRA FURTOS DE MAPAS POR MODS
+*/
+
+CreateObject(2675, -200.64101, 243.61060, 10.21110,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -164.46609, 379.78830, 10.25010,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -181.88760, 313.19391, 9.55520,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)

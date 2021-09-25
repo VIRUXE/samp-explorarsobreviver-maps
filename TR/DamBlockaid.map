@@ -1,6 +1,4 @@
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-// 		OBJETOS COM TEXTURA 
+// Objetos com Textura
 
 CreateObject(874, -837.332763, 2015.254760, 59.374691, 0.000000, 0.000000, 0.000000); 
 SetObjectMaterial(objectid, 0, 825, "gta_proc_bigbush", "veg_bush4", 0x00000000);
@@ -121,9 +119,7 @@ SetObjectMaterial(objectid, 4, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000
 SetObjectMaterial(objectid, 5, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 SetObjectMaterial(objectid, 6, 14794, "ab_vegasgymmain", "mp_CJ_SHEET2", 0x00000000);
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-// 		       OBJETOS
+// Objetos Adicionados
 
 CreateObject(13591, -836.419555, 2012.494995, 59.600135, 0.000000, 0.000000, 308.390014); 
 CreateObject(3593, -843.389953, 2019.919067, 61.039791, 354.579864, -2.579999, 45.360008); 
@@ -216,4 +212,15 @@ CreateObject(874, -641.633239, 2055.591796, 59.382812, 0.000000, 0.000000, 0.000
 CreateObject(874, -618.742736, 2039.373657, 59.187500, 0.000000, 0.000000, 0.000000); 
 CreateObject(874, -585.610839, 2039.743041, 59.187500, 0.000000, 0.000000, 19.399995); 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+		   PROTEÇÕES CONTRA FURTOS DE MAPAS POR MODS
+*/
+
+CreateObject(2675, -851.97241, 2012.22546, 58.49800,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -829.97278, 1999.65369, 74.87540,   0.00000, 0.00000, 62.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, -719.48792, 2061.28345, 58.45540,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)

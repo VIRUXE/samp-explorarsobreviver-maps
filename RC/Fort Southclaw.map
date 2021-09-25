@@ -313,3 +313,31 @@ CreateObject(1437, 250.48633, -153.04199, -38.69422,   10.13489, 0.00000, 359.50
 CreateObject(1437, 250.48633, -153.04199, -44.47432,   10.13489, 0.00000, 359.50012);
 CreateObject(1437, 250.48633, -153.02789, -50.32138,   10.13489, 0.00000, 359.50012);
 CreateObject(2672, 149.38060, -169.71620, 0.87480,   0.00000, 0.00000, 0.00000);
+
+/*
+		   PROTEÇÕES CONTRA FURTOS DE MAPAS POR MODS
+*/
+
+CreateObject(2675, 232.37460, -140.64510, -0.23590,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, 288.87570, -210.18890, -0.38400,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, 181.25710, -218.56750, -0.30540,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, 133.71210, -158.52130, -0.58460,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, 187.36340, -144.37131, -0.54430,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, 180.65739, -181.58600, -0.45970,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, 236.52310, -181.24271, -0.56350,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
+
+CreateObject(2675, 260.36591, -174.73759, 6.57430,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)

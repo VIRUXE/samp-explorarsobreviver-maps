@@ -118,3 +118,10 @@ CreateDynamicObject(19362, -2587.03, 1149.82, 38.18,   0.00, 90.00, 328.00);
 CreateDynamicObject(19362, -2589.35, 1150.59, 38.18,   0.00, 90.00, 0.00);
 CreateDynamicObject(19355, -2587.70, 1149.66, 36.33,   0.00, 0.00, 238.00);
 CreateDynamicObject(1535, -2576.90, 1145.03, 39.09,   0.00, 0.00, 238.00);
+
+/*
+		   PROTEÇÕES CONTRA FURTOS DE MAPAS POR MODS
+*/
+
+CreateObject(2675, -2587.03760, 1154.87268, 45.78360,   0.00000, 0.00000, 0.00000);
+SetObjectMaterial(objectid, 3, 4682, "dtbuil1_lan2", "LAInside_Tracksign2", 0x00000000)
